@@ -24,6 +24,5 @@ public class HelloWorld {
     public static void main(String[] args) {
 
         printMessage(5, 10);
-        System.out.println("Muhammad Baibars Zain Ul Abideen");
     }
 }
